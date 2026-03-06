@@ -1,0 +1,4 @@
+interface:
+  display_name: "BMAD Method Complete"
+  short_description: "Pure-skill BMAD workflow runtime"
+  default_prompt: "Use $bmad-method-complete to run the full BMAD method from skills only."
